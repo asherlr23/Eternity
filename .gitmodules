@@ -1,0 +1,3 @@
+[submodule "EggoTK"]
+	path = EggoTK
+	url = https://github.com/EternityClient/EggoTK
